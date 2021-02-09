@@ -4,7 +4,7 @@ tableextension 50100 "Curr Tab Ext" extends Currency
     {
         field(50100; "New Field"; Text[20])
         {
-            Caption = 'New Field Caption';
+            Caption = 'New Field';
             DataClassification = ToBeClassified;
         }
     }
