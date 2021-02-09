@@ -1,0 +1,26 @@
+{
+  "id": "8f19129a-6afe-4b60-ba4f-edf6032fd0db",
+  "name": "ALProject4",
+  "publisher": "Evgeny Test",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 80000
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject4.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
